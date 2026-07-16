@@ -2,7 +2,7 @@
 
 _Ariel J. N. Panopio, Hamza A. Abushahla, Ali Reza Sajun, Sameer Alawnah, Fadi Aloul, and Imran Zualkernan_
 
-This repository contains code and resources for the paper: "[From Sensor to Server: Deployable Lightweight ML for IoT Intrusion Detection Across Network Layers](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4234)".
+This repository contains code and resources for the paper: "[From Sensor to Server: Deployable Lightweight ML for IoT Intrusion Detection Across Network Layers](https://ieeexplore.ieee.org/abstract/document/11474516)".
 
 <div align="center">
   <img src="figures/pipeline.jpg" height="350px" alt="E2E" />
@@ -42,7 +42,17 @@ Deep learning models were quantized using **Quantization-Aware Training (QAT)** 
 If you use our work for your own research, please cite us with the below: 
 
 ```bibtex
-
+@article{panopio2026sensor,
+  title={From Sensor to Server: Deployable Lightweight ML for IoT Intrusion Detection Across Network Layers},
+  author={Panopio, Ariel Justine N and Abushahla, Hamza A and Sajun, Ali Reza and Alawnah, Sameer and Aloul, Fadi and Zualkernan, Imran},
+  journal={IEEE Internet of Things Journal},
+  year={2026},
+  volume={13},
+  number={14},
+  pages={30483-30517},
+  publisher={IEEE},
+  doi={10.1109/JIOT.2026.3680712}
+}
 ```
 
 You can also reach out through email to: 
